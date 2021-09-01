@@ -1,0 +1,46 @@
+.F {
+	height: 190px;
+	width: 960px;
+	margin: 0 auto;
+	background-color: grey;
+	display: flex;
+	justify-content: space-around;
+}
+.F1 {
+	height: 40px;
+	color: lightgrey;
+	margin-top: 10px;
+}
+.F2 {
+	height: 100px;
+	width: 100px;
+	margin-top: 10px;
+	text-decoration: underline;
+	font-size: 14px;
+	color: lightgrey;
+}
+.F3 {
+	height: 40px;
+	width: 250px;
+	margin-top: 10px;
+	color: lightgrey;
+	font-size: 14px;
+	display: flex;
+
+}
+.F4 {
+	font-size: 14px;
+	color: lightgrey;
+}
+.F5 {
+	font-size: 14px;
+	font-family: Pt Sans;
+}
+.I1 {
+	margin-top: 15px;
+	width: 40px;
+	height: 40px;
+}
+.Fo {
+	line-height: 5px;
+}

@@ -1,0 +1,40 @@
+.D {
+	background-color: lightyellow;
+}
+.header {
+	width: 960px;
+	height: 260px;
+	background-color: lightgrey;
+	margin: 0 auto;
+}
+.header0 {
+	display: flex;
+	justify-content: space-evenly;
+	height: 200px;
+}
+.header1 {
+	width: 270px;
+	height: 100px;
+	margin-top: 50px;
+}
+.header2 {
+	width: 250px;
+	height: 80px;
+	background-color: ;
+	margin-top: 60px;
+	font-size: 24px;
+	line-height: 22px;
+	color: grey;
+}
+.E {
+	width: 100%;
+	height: 60px;
+	background-color: grey;
+}
+.E1 {
+	font-size: 17px;
+	display: flex;
+	justify-content: center;
+	height: 60px;
+	color: white;
+}
